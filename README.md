@@ -85,4 +85,4 @@ Esta ferramenta foi feita para fins educacionais e prova de conceitos. Não sou 
 
 ----
 
-> PostadorDeImagens by Tz está licenciado sob Attribution 4.0 International
+> ImagePoster by Tz está licenciado sob Attribution 4.0 International
